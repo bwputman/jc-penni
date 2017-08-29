@@ -1,30 +1,29 @@
-{
-    "owner_name_lookup": {1: “Jason McMillan“,
-                         2: “Zach Hall“
-                         3: “Sean Fitzgerald“
-                         4: “Rick Toms“
-                         5: “Jason Smith“
-                         6: “Darryl McFarland“
-                         7: “Bradley Putman“
-                         8: “Jerry LeBlanc“
-                         9: “Matt Zeback“
-                         10: “James Waller“
-    },
+[
+    {1: “Jason McMillan“,
+     2: “Zach Hall“
+     3: “Sean Fitzgerald“
+     4: “Rick Toms“
+     5: “Jason Smith“
+     6: “Darryl McFarland“
+     7: “Bradley Putman“
+     8: “Jerry LeBlanc“
+     9: “Matt Zeback“
+     10: “James Waller“},
 
-    "owner_id_lookup": {“Jason McMillan“: 1,
-                       “Zach Hall“: 2,
-                       “Sean Fitzgerald“: 3,
-                       “Rick Toms“: 4,
-                       “Jason Smith“: 5,
-                       “Darryl McFarland“: 6,
-                       “Bradley Putman“: 7,
-                       “Jerry LeBlanc“: 8,
-                       “Matt Zeback“: 9,
-                       “James Waller“: 10
-    },
+
+    {“Jason McMillan“: 1,
+     “Zach Hall“: 2,
+     “Sean Fitzgerald“: 3,
+     “Rick Toms“: 4,
+     “Jason Smith“: 5,
+     “Darryl McFarland“: 6,
+     “Bradley Putman“: 7,
+     “Jerry LeBlanc“: 8,
+     “Matt Zeback“: 9,
+     “James Waller“: 10},
         
-    "owners": {
-        “Jason McMillan“: {
+
+    {“Jason McMillan“: {
             “owner_id”: 1,
             “schedule”: {
                 “1”: “James Waller”,
@@ -214,4 +213,4 @@
             }
         }
     }
-}
+]
